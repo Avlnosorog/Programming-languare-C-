@@ -1,0 +1,15 @@
+D:\AVL_Alexander\Examples\Ex003_HelloUser\bin\Debug\net6.0\Ex003_HelloUser.exe
+D:\AVL_Alexander\Examples\Ex003_HelloUser\bin\Debug\net6.0\Ex003_HelloUser.deps.json
+D:\AVL_Alexander\Examples\Ex003_HelloUser\bin\Debug\net6.0\Ex003_HelloUser.runtimeconfig.json
+D:\AVL_Alexander\Examples\Ex003_HelloUser\bin\Debug\net6.0\Ex003_HelloUser.dll
+D:\AVL_Alexander\Examples\Ex003_HelloUser\bin\Debug\net6.0\Ex003_HelloUser.pdb
+D:\AVL_Alexander\Examples\Ex003_HelloUser\obj\Debug\net6.0\Ex003_HelloUser.csproj.AssemblyReference.cache
+D:\AVL_Alexander\Examples\Ex003_HelloUser\obj\Debug\net6.0\Ex003_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\AVL_Alexander\Examples\Ex003_HelloUser\obj\Debug\net6.0\Ex003_HelloUser.AssemblyInfoInputs.cache
+D:\AVL_Alexander\Examples\Ex003_HelloUser\obj\Debug\net6.0\Ex003_HelloUser.AssemblyInfo.cs
+D:\AVL_Alexander\Examples\Ex003_HelloUser\obj\Debug\net6.0\Ex003_HelloUser.csproj.CoreCompileInputs.cache
+D:\AVL_Alexander\Examples\Ex003_HelloUser\obj\Debug\net6.0\Ex003_HelloUser.dll
+D:\AVL_Alexander\Examples\Ex003_HelloUser\obj\Debug\net6.0\refint\Ex003_HelloUser.dll
+D:\AVL_Alexander\Examples\Ex003_HelloUser\obj\Debug\net6.0\Ex003_HelloUser.pdb
+D:\AVL_Alexander\Examples\Ex003_HelloUser\obj\Debug\net6.0\Ex003_HelloUser.genruntimeconfig.cache
+D:\AVL_Alexander\Examples\Ex003_HelloUser\obj\Debug\net6.0\ref\Ex003_HelloUser.dll
